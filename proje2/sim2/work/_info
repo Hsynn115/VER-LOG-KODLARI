@@ -1,0 +1,284 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HUSEYIN CICEK/Desktop/proje/sim
+vadder8bit
+Z0 !s110 1755524017
+!i10b 1
+!s100 W6YZ^EhI5cSV5Xh`Xo_cL3
+IQB=G<28e9KZh^;0AK>;CY1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HUSEYIN CICEK/Desktop/proje2/sim2
+w1755524004
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/adder8bit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/adder8bit.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1755524017.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/adder8bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/adder8bit.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vfull_adder_Behavioral
+!s110 1755614221
+!i10b 1
+!s100 ]U2njX@DJVQAD69:Mmg^i2
+IWMDNB_A6HFGGN1kd^<n]?2
+R1
+R2
+w1755614213
+Z7 8C:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_Behavioral.v
+Z8 FC:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_Behavioral.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1755614220.000000
+Z9 !s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_Behavioral.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_Behavioral.v|
+!i113 1
+R5
+R6
+nfull_adder_@behavioral
+vfull_adder_data
+Z11 !s110 1755614412
+!i10b 1
+!s100 hjicOf^RjRM826OjlV3;m1
+I0fLhdD=B^5c2o>@8SR^An3
+R1
+R2
+w1755614406
+R7
+R8
+L0 19
+R3
+r1
+!s85 0
+31
+Z12 !s108 1755614412.000000
+R9
+R10
+!i113 1
+R5
+R6
+vfull_adder_structural
+Z13 !s110 1755693809
+!i10b 1
+!s100 Xfcb7WFak7]gZiOd?1Z7R3
+I;93If73U>LizE[Y;FN3T01
+R1
+R2
+w1755602187
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_structural.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_structural.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1755693809.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/full_adder_structural.v|
+!i113 1
+R5
+R6
+vhalf_adder_structural
+Z14 !s110 1755693808
+!i10b 1
+!s100 63h2g0hZ_B[EB??DE3bhZ1
+IXWTI?>[R1K`6DQIC@IkXJ2
+R1
+R2
+w1755529047
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/half_adder_structural.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/half_adder_structural.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z15 !s108 1755693808.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/half_adder_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/half_adder_structural.v|
+!i113 1
+R5
+R6
+vmy_first_testbench
+R0
+!i10b 1
+!s100 aeDDJC`lS5dmFJj6kk0ab3
+I7JMGmQS^0olVYMTlPXb9:1
+R1
+R2
+w1755523628
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/my_first_testbench.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/my_first_testbench.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/my_first_testbench.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/my_first_testbench.v|
+!i113 1
+R5
+R6
+vprocedurs
+!s110 1755598541
+!i10b 1
+!s100 Hdm[eJO]d?_8C_F9L27nR0
+I1aXX[HM5R77h`N8@hIi_P2
+R1
+R2
+w1755598495
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/procedures.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/procedures.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1755598541.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/procedures.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/procedures.v|
+!i113 1
+R5
+R6
+vripple_adder_4bit_structural
+R14
+!i10b 1
+!s100 0T3oddcdMz=<WRW79JSVN0
+Ij@Ezo7_[<D8WhAX4NhC`13
+R1
+R2
+w1755692038
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/ripple_adder_4bit_structural.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/ripple_adder_4bit_structural.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/ripple_adder_4bit_structural.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/ripple_adder_4bit_structural.v|
+!i113 1
+R5
+R6
+vtestbenc3
+!s110 1755605126
+!i10b 1
+!s100 eAc]2FXWaKaEg9SLnLIWc2
+I37i7BE;?H4jK2UGNL?Uhd3
+R1
+R2
+w1755605035
+Z16 8C:\Users\HUSEYIN CICEK\Desktop\proje2\testbench3.v
+Z17 FC:\Users\HUSEYIN CICEK\Desktop\proje2\testbench3.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1755605126.000000
+Z18 !s107 C:\Users\HUSEYIN CICEK\Desktop\proje2\testbench3.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\HUSEYIN CICEK\Desktop\proje2\testbench3.v|
+!i113 1
+R5
+R6
+vtestbench
+R13
+!i10b 1
+!s100 N:[V[9^ac8EC]FFnV<R3c3
+IcWa2bRgM8Wg1?`R78]Le`1
+R1
+R2
+w1755691664
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench_4bit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/testbench_4bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R15
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench_4bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench_4bit.v|
+!i113 1
+R5
+R6
+vtestbench2
+!s110 1755602809
+!i10b 1
+!s100 A1IS2AJG[@gF@N=f?_d^20
+IT@gcG3lDN1o[mHmb]_mYW1
+R1
+R2
+w1755602666
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/2testbench2.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/2testbench2.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1755602809.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/2testbench2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/2testbench2.v|
+!i113 1
+R5
+R6
+vtestbenchh
+R11
+!i10b 1
+!s100 EWZd7lENM21_ZLjKldTn`2
+I8jWWALnDnX;T0][L_AS=f1
+R1
+R2
+w1755614018
+R16
+R17
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+R18
+R19
+!i113 1
+R5
+R6
+vwaveforms
+!s110 1755527839
+!i10b 1
+!s100 J?l<B8oKL^T]lOM[Yo2<k2
+IY<1Icdl1bba:;She]So>e0
+R1
+R2
+w1755527669
+8C:/Users/HUSEYIN CICEK/Desktop/proje2/waveforms.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje2/waveforms.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1755527839.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje2/waveforms.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje2/waveforms.v|
+!i113 1
+R5
+R6

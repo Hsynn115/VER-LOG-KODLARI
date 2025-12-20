@@ -1,0 +1,89 @@
+# Compile of tb_gates.v was successful.
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project built_in_gate
+# Compile of built_in_gate.v was successful.
+# Compile of tb_gates.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_gates
+# vsim -gui work.tb_gates 
+# Start time: 17:07:16 on Aug 20,2025
+# Loading work.tb_gates
+# Loading work.built_in_gates
+add wave -position end  sim:/tb_gates/a
+add wave -position end  sim:/tb_gates/b
+add wave -position end  sim:/tb_gates/c
+add wave -position end  sim:/tb_gates/d
+add wave -position end  sim:/tb_gates/o1
+add wave -position end  sim:/tb_gates/o2
+add wave -position end  sim:/tb_gates/o3
+add wave -position end  sim:/tb_gates/o4
+add wave -position end  sim:/tb_gates/o5
+add wave -position end  sim:/tb_gates/o6
+add wave -position end  sim:/tb_gates/o7
+add wave -position end  sim:/tb_gates/o8
+add wave -position end  sim:/tb_gates/o9
+add wave -position end  sim:/tb_gates/o10
+run
+run
+run
+# Compile of built_in_gate.v was successful.
+# Compile of tb_gates.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_gates
+# End time: 17:09:38 on Aug 20,2025, Elapsed time: 0:02:22
+# Errors: 0, Warnings: 0
+# vsim -gui work.tb_gates 
+# Start time: 17:09:38 on Aug 20,2025
+# Loading work.tb_gates
+# Loading work.built_in_gates
+run
+add wave -position end  sim:/tb_gates/a
+add wave -position end  sim:/tb_gates/b
+add wave -position end  sim:/tb_gates/c
+add wave -position end  sim:/tb_gates/d
+add wave -position end  sim:/tb_gates/o1
+add wave -position end  sim:/tb_gates/o2
+add wave -position end  sim:/tb_gates/o3
+add wave -position end  sim:/tb_gates/o4
+add wave -position end  sim:/tb_gates/o5
+add wave -position end  sim:/tb_gates/o6
+add wave -position end  sim:/tb_gates/o7
+add wave -position end  sim:/tb_gates/o8
+add wave -position end  sim:/tb_gates/o9
+add wave -position end  sim:/tb_gates/o10
+run -all
+# Compile of built_in_gate.v was successful.
+# Compile of tb_gates.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Load canceled
+run
+vsim -gui work.tb_gates
+# End time: 17:18:18 on Aug 20,2025, Elapsed time: 0:08:40
+# Errors: 1, Warnings: 0
+# vsim -gui work.tb_gates 
+# Start time: 17:18:18 on Aug 20,2025
+# Loading work.tb_gates
+# Loading work.built_in_gates
+add wave -position end  sim:/tb_gates/a
+add wave -position end  sim:/tb_gates/b
+add wave -position end  sim:/tb_gates/c
+add wave -position end  sim:/tb_gates/d
+add wave -position end  sim:/tb_gates/o1
+add wave -position end  sim:/tb_gates/o2
+add wave -position end  sim:/tb_gates/o3
+add wave -position end  sim:/tb_gates/o4
+add wave -position end  sim:/tb_gates/o5
+add wave -position end  sim:/tb_gates/o6
+add wave -position end  sim:/tb_gates/o7
+add wave -position end  sim:/tb_gates/o8
+add wave -position end  sim:/tb_gates/o9
+add wave -position end  sim:/tb_gates/o10
+run
+# a=x b=x c=x d=x,o1=x,o2=x,o3=z,o4=x,o5=x,o6=x,o7=x,o8=x,o9=x,o10=x
+run
+# Break key hit
+quit -sim
+# End time: 18:35:15 on Aug 20,2025, Elapsed time: 1:16:57
+# Errors: 0, Warnings: 0
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project mult1_gate
