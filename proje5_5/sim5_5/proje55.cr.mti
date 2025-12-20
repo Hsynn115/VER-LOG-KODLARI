@@ -1,0 +1,15 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module d_ff_sync_rstn
+
+Top level modules:
+	d_ff_sync_rstn
+
+} {} {}} {C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop_tb.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_d_dff_rstn
+
+Top level modules:
+	tb_d_dff_rstn
+
+} {} {}}

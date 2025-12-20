@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/19.1
+vd_ff_sync_rstn
+!s110 1759241368
+!i10b 1
+!s100 YVUcS^:aN?>=oTCdLaHEZ2
+IZ2:6Be8:Vefo:MH<eRE7I2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5
+w1759241211
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop.v
+L0 21
+Z2 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1759241368.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop.v|
+!i113 1
+Z3 o-work work
+Z4 tCvgOpt 0
+vshift_reg_pipo
+Z5 !s110 1759246708
+!i10b 1
+!s100 @J6SQLUSc5zfMTX?3C7=70
+IKe0868nbHncVk:jDRo9?70
+R0
+R1
+w1759246699
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo.v
+L0 1
+R2
+r1
+!s85 0
+31
+Z6 !s108 1759246708.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo.v|
+!i113 1
+R3
+R4
+vshift_reg_piso
+Z7 !s110 1765635052
+!i10b 1
+!s100 4KZ_LTX19I6O6Jh@coGi63
+I`876i6oXf_Gm_]B>9lHYR2
+R0
+R1
+w1765634338
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/piso.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/piso.v
+L0 2
+R2
+r1
+!s85 0
+31
+Z8 !s108 1765635052.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/piso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/piso.v|
+!i113 1
+R3
+R4
+vtb_d_dff_rstn
+!s110 1759241222
+!i10b 1
+!s100 =Y=Z>DGgkoA>dZg>c[@SY0
+IBdMU]<S3AQZVVbKI2R:>?0
+R0
+R1
+w1759240537
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop_tb.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1759241222.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/d_flip_flop_tb.v|
+!i113 1
+R3
+R4
+vtb_shift_reg_pipo
+R5
+!i10b 1
+!s100 zI0DEF_TI0BIKFPWYToTo1
+I]^z>EkMCIkBJ`X=]mTL^z1
+R0
+R1
+w1759246489
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo_tb.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo_tb.v
+L0 1
+R2
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/pipo_tb.v|
+!i113 1
+R3
+R4
+vtb_shift_reg_piso
+R7
+!i10b 1
+!s100 4VZBaO@Qh@C0BE^@jf22H3
+IFA=UZ8LSS=VLXQELTXonP1
+R0
+R1
+w1765634407
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/tb_piso.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/tb_piso.v
+L0 3
+R2
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/tb_piso.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5/tb_piso.v|
+!i113 1
+R3
+R4

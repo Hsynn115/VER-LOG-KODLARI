@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5
+vtb_d_dff_rstn
+!s110 1759240765
+!i10b 1
+!s100 =Y=Z>DGgkoA>dZg>c[@SY0
+I``df>N[4CYRIUfLgE]_]b1
+VDg1SIo80bB@j0V0VzS_@n1
+dC:/Users/HUSEYIN CICEK/Desktop/proje5_5
+w1759240537
+8C:/Users/HUSEYIN CICEK/Desktop/proje5_5/d_flip_flop_tb.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje5_5/d_flip_flop_tb.v
+L0 1
+OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1759240765.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje5_5/d_flip_flop_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje5_5/d_flip_flop_tb.v|
+!i113 1
+o-work work
+tCvgOpt 0
