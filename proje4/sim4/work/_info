@@ -1,0 +1,327 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HUSEYIN CICEK/Desktop/proje3/sim3
+vALU
+Z0 !s110 1756208917
+!i10b 1
+!s100 6:h2e`b8Q@QJIW@EaAe_B2
+I=0iT^ZO_^_U>oeJNjkzD73
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HUSEYIN CICEK/Desktop/proje4/sim4
+w1756208757
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/ALU.V
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/ALU.V
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1756208917.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/ALU.V|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/ALU.V|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@a@l@u
+vcomparator_nbit
+Z7 !s110 1756034791
+!i10b 1
+!s100 Wk2bgV0D0<J9PT[hcEA330
+IZkDBOWYU9AfY?VfHnE=S<0
+R1
+R2
+w1756034281
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/comparator_nbit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/comparator_nbit.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1756034791.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/comparator_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/comparator_nbit.v|
+!i113 1
+R5
+R6
+vdecoder_3to8
+Z9 !s110 1756043095
+!i10b 1
+!s100 F@m5WWDK`HZDioFZDSZn@3
+IhOK:FJXOmDO4lzPo4ERQi1
+R1
+R2
+w1756042325
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_3to8.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_3to8.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z10 !s108 1756043095.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_3to8.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_3to8.v|
+!i113 1
+R5
+R6
+vdecoder_4to16
+R9
+!i10b 1
+!s100 <Uf_V6oMcg0`WmAn0CG<`3
+IT17o[1HE[0Z4Fl]iVcAFK0
+R1
+R2
+w1756042860
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_4to16.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_4to16.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_4to16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_4to16.v|
+!i113 1
+R5
+R6
+vdecoder_nbit
+Z11 !s110 1756039232
+!i10b 1
+!s100 oo7fO<Q4jn:f=a?nfZLCM1
+I<j0U;A4`^TW9d3C7CdaOR2
+R1
+R2
+w1756038993
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_nbit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_nbit.v
+L0 1
+R3
+r1
+!s85 0
+31
+!s108 1756039232.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_nbit.v|
+!i113 1
+R5
+R6
+vdmux_4x_nbit
+!s110 1756151324
+!i10b 1
+!s100 caYXIWKe6GETZ=AnjnZm21
+I=^c>7SBU9K@dQE[<W=GoJ1
+R1
+R2
+w1756151149
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/dmux_4x_nbit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/dmux_4x_nbit.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z12 !s108 1756151323.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/dmux_4x_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/dmux_4x_nbit.v|
+!i113 1
+R5
+R6
+vhex_7seg_decoder
+Z13 !s110 1756192455
+!i10b 1
+!s100 Q=hAeI9TUGRo8_B^F5@VS0
+Il^7cO>XUHbIITT>gReTaa3
+R1
+R2
+w1756192216
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/hex_7seg_decoder.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/hex_7seg_decoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+Z14 !s108 1756192455.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/hex_7seg_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/hex_7seg_decoder.v|
+!i113 1
+R5
+R6
+vpriority_encoder
+Z15 !s110 1756060175
+!i10b 1
+!s100 Ej61>cF@ADHfe`23nXSFc1
+I8c@`0IKT3alC8NITZFmSM2
+R1
+R2
+w1756059868
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/priority_encoder.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/priority_encoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z16 !s108 1756060175.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/priority_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/priority_encoder.v|
+!i113 1
+R5
+R6
+vtb_ALU
+R0
+!i10b 1
+!s100 nZVBgVf:K=TVRY1j5jSTe1
+I9;DdXh73k<6gJ5]nV<^?d1
+R1
+R2
+w1756208755
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_ALU.V
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_ALU.V
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_ALU.V|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_ALU.V|
+!i113 1
+R5
+R6
+ntb_@a@l@u
+vtb_comparator_nbit
+R7
+!i10b 1
+!s100 gY5_3_<:VVYC3TL_Azz9N3
+II?fl3cX>zVAJi97Z[e5Zi3
+R1
+R2
+w1756034777
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_comp_nbit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_comp_nbit.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_comp_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_comp_nbit.v|
+!i113 1
+R5
+R6
+vtb_decoder_4to16
+R9
+!i10b 1
+!s100 XI7dc[6[J@]VDLQW=hLoR3
+IDlNoO;kPKzCL5O50?Pelg3
+R1
+R2
+w1756043080
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder_4to16.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder_4to16.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder_4to16.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder_4to16.v|
+!i113 1
+R5
+R6
+vtb_decoder_nbit
+R11
+!i10b 1
+!s100 GcBAe=h67CWW_PG6E[MZZ2
+INcZ2`W^`gY7VDTaQ9NM_m2
+R1
+R2
+w1756039162
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1756039231.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder.v|
+!i113 1
+R5
+R6
+vtb_dmux_4x_nbit
+!s110 1756151323
+!i10b 1
+!s100 ?AgTCBJ22SU>9@=J5B9n@2
+IICDgcze;;FJXTFiieQY`X2
+R1
+R2
+w1756151194
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_dmux_4x_nbit.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_dmux_4x_nbit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_dmux_4x_nbit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_dmux_4x_nbit.v|
+!i113 1
+R5
+R6
+vtb_hex_7seg_decoder
+R13
+!i10b 1
+!s100 LJdb8bF1PVe]>iMRUfn8;3
+I>Kz:d2G:Ta47bPIV[<_SJ0
+R1
+R2
+w1756192251
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_hex_7seg_decoder.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_hex_7seg_decoder.v
+L0 3
+R3
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_hex_7seg_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_hex_7seg_decoder.v|
+!i113 1
+R5
+R6
+vtb_priority_encoder
+R15
+!i10b 1
+!s100 eRYRThN_;VdhbmB>4L=2T0
+I2XW0GFR=TjJij@XVk2SIk0
+R1
+R2
+w1756060163
+8C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_priority_encoder.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje4/tb_priority_encoder.v
+L0 1
+R3
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_priority_encoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_priority_encoder.v|
+!i113 1
+R5
+R6

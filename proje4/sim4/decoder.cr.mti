@@ -1,0 +1,15 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_nbit.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_nbit.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_nbit
+
+Top level modules:
+	decoder_nbit
+
+} {} {}} {C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_decoder_nbit
+
+Top level modules:
+	tb_decoder_nbit
+
+} {} {}}

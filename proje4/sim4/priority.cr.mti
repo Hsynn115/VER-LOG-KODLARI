@@ -1,0 +1,15 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje4/priority_encoder.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje4/priority_encoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module priority_encoder
+
+Top level modules:
+	priority_encoder
+
+} {} {}} {C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_priority_encoder.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje4/tb_priority_encoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_priority_encoder
+
+Top level modules:
+	tb_priority_encoder
+
+} {} {}}

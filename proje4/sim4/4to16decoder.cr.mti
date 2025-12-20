@@ -1,0 +1,15 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_3to8.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_3to8.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_3to8
+
+Top level modules:
+	decoder_3to8
+
+} {} {}} {C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_4to16.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje4/decoder_4to16.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module decoder_4to16
+
+Top level modules:
+	decoder_4to16
+
+} {} {}}
