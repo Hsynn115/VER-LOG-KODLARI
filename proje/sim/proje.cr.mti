@@ -1,0 +1,27 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v} {0 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module logical_opr_usade
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(6.10): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(6.11): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(19.9): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(19.10): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(20.29): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(20.30): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(22.54): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(22.55): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(27.16): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(27.17): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(28.41): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(28.42): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(30.77): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(30.78): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(34.11): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(34.12): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(35.42): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(35.43): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(36.11): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(36.12): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(36.18): Syntax error, unexpected non-printable character with the hex value '0xc3'.
+** Error: (vlog-13067) C:/Users/HUSEYIN CICEK/Desktop/proje/Logical Operators Usage.v(36.19): Syntax error, unexpected non-printable character with the hex value '0xa7'.
+
+} {4.0 26.0} {}}

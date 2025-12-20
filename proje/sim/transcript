@@ -1,0 +1,118 @@
+# Compile of adder8bit.v failed with 1 errors.
+# Compile of my_first_testbench.v was successful.
+# 2 compiles, 1 failed with 1 error.
+vsim -gui work.my_first_testbench
+# vsim -gui work.my_first_testbench 
+# Start time: 16:30:15 on Aug 18,2025
+# Loading work.my_first_testbench
+# ** Error: (vsim-3033) C:/Users/HUSEYIN CICEK/Desktop/proje2/my_first_testbench.v(12): Instantiation of 'adder8bit' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /my_first_testbench File: C:/Users/HUSEYIN CICEK/Desktop/proje2/my_first_testbench.v
+#         Searched libraries:
+#             C:/Users/HUSEYIN CICEK/Desktop/proje2/sim2/work
+# Error loading design
+# End time: 16:30:15 on Aug 18,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project pro3
+# Compile of my_first_testbench.v was successful.
+# Compile of adder8bit.v failed with 1 errors.
+# 2 compiles, 1 failed with 1 error.
+# Compile of my_first_testbench.v was successful.
+# Compile of adder8bit.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.my_first_testbench
+# vsim -gui work.my_first_testbench 
+# Start time: 16:34:16 on Aug 18,2025
+# Loading work.my_first_testbench
+# Loading work.adder8bit
+add wave -position end  sim:/my_first_testbench/a
+add wave -position end  sim:/my_first_testbench/b
+add wave -position end  sim:/my_first_testbench/sum
+run
+# a=  0, b=  0, sum=  0
+# a=  1, b=  0, sum=  1
+# a=  1, b= 10, sum= 11
+# a=  3, b= 99, sum=102
+# a=101, b= 66, sum=167
+# a=255, b=255, sum=510
+# End time: 17:34:48 on Aug 18,2025, Elapsed time: 1:00:32
+# Errors: 0, Warnings: 0
+# Closing project C:/Users/HUSEYIN CICEK/Desktop/proje2/sim2/pro3.mpf
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Load canceled
+# Break key hit
+# Loading project grafik_okuma
+# Compile of waveforms.v was successful.
+vsim -gui work.waveforms
+# vsim -gui work.waveforms 
+# Start time: 17:37:41 on Aug 18,2025
+# Loading work.waveforms
+add wave -position end  sim:/waveforms/sig1
+add wave -position end  sim:/waveforms/sig2
+run
+# End time: 22:53:14 on Aug 18,2025, Elapsed time: 5:15:33
+# Errors: 0, Warnings: 0
+# Closing project C:/Users/HUSEYIN CICEK/Desktop/proje2/sim2/grafik_okuma.mpf
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project testbench
+# Compile of testbench.v was successful.
+# Compile of testbench.v was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 22:56:18 on Aug 18,2025
+# Loading work.testbench
+# ** Error: (vsim-3033) C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench.v(10): Instantiation of 'half_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench.v
+#         Searched libraries:
+#             C:/Users/HUSEYIN CICEK/Desktop/proje2/sim2/work
+# Error loading design
+# End time: 22:56:18 on Aug 18,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 22:56:55 on Aug 18,2025
+# Loading work.testbench
+# ** Error: (vsim-3033) C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench.v(10): Instantiation of 'half_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench.v
+#         Searched libraries:
+#             C:/Users/HUSEYIN CICEK/Desktop/proje2/sim2/work
+# Error loading design
+# End time: 22:56:55 on Aug 18,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of testbench.v was successful.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 22:57:30 on Aug 18,2025
+# Loading work.testbench
+# ** Error: (vsim-3033) C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench.v(10): Instantiation of 'half_adder_structural' failed. The design unit was not found.
+#    Time: 0 ps  Iteration: 0  Instance: /testbench File: C:/Users/HUSEYIN CICEK/Desktop/proje2/testbench.v
+#         Searched libraries:
+#             C:/Users/HUSEYIN CICEK/Desktop/proje2/sim2/work
+# Error loading design
+# End time: 22:57:30 on Aug 18,2025, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 0
+# Compile of testbench.v was successful.
+# reading C:/intelFPGA/19.1/modelsim_ase/win32aloem/../modelsim.ini
+# Loading project hsyn
+# Compile of half_adder_structural.v was successful.
+# Compile of testbench.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.testbench
+# vsim -gui work.testbench 
+# Start time: 23:01:22 on Aug 18,2025
+# Loading work.testbench
+# Loading work.half_adder_structural
+add wave -position end  sim:/testbench/a
+add wave -position end  sim:/testbench/b
+add wave -position end  sim:/testbench/sum
+add wave -position end  sim:/testbench/carry
+run
+# a=x, b=x, sum=x, carry=x
+# a=0, b=0, sum=0, carry=0
+# a=0, b=1, sum=1, carry=0
+# a=1, b=0, sum=1, carry=0
+# a=1, b=1, sum=0, carry=1
+# a=0, b=0, sum=0, carry=0
+# a=1, b=1, sum=0, carry=1
+# End time: 23:07:02 on Aug 18,2025, Elapsed time: 0:05:40
+# Errors: 0, Warnings: 0

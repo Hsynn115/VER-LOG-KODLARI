@@ -1,0 +1,8 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje/easy_verilog_example (1).v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje/easy_verilog_example (1).v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module easy_verilog_example
+
+Top level modules:
+	easy_verilog_example
+
+} {} {}}
