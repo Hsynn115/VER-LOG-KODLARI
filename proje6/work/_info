@@ -1,0 +1,136 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HUSEYIN CICEK/Desktop/proje5_5/sim5_5
+vram_dp_async_read
+Z0 !s110 1766240685
+!i10b 1
+!s100 P0D9Yk;SDCG?0Q=TOIW691
+IMU2X@c9@mICR89AIcFQ_b2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HUSEYIN CICEK/Desktop/proje6
+w1766240544
+8C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_dp_async_read.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_dp_async_read.v
+L0 2
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1766240685.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_dp_async_read.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_dp_async_read.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vram_sp_async_read
+Z7 !s110 1766231901
+!i10b 1
+!s100 005l^7GY]6R1W>0PZRhMA0
+I10hNDKL`7o2h8cRG4RDND2
+R1
+R2
+w1766231629
+8C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_sp_async_read.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_sp_async_read.v
+L0 2
+R3
+r1
+!s85 0
+31
+Z8 !s108 1766231901.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_sp_async_read.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/ram_sp_async_read.v|
+!i113 1
+R5
+R6
+vrom
+Z9 !s110 1766242211
+!i10b 1
+!s100 4:9kJP<QWYl3^SJOVM?Wo2
+I7ZUX2nD9m8B;iR;WUVXUo3
+R1
+R2
+w1766241974
+8C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/rom.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/rom.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z10 !s108 1766242211.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/rom.v|
+!i113 1
+R5
+R6
+vtb_ram_dp_async_read
+R0
+!i10b 1
+!s100 SKZ@=4BSTSo8Sm;XGGXoj1
+IR?aP58X5m`X;I[Z]1fVCg2
+R1
+R2
+w1766240542
+8C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_dp_async_read.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_dp_async_read.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_dp_async_read.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_dp_async_read.v|
+!i113 1
+R5
+R6
+vtb_ram_sp_async_read
+R7
+!i10b 1
+!s100 V?;_7GAkJZb`L8>QSo5D]1
+IlhPbhbhdRT6jJT5ikH7jz3
+R1
+R2
+w1766231704
+8C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_sp_async_read.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_sp_async_read.v
+L0 3
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_sp_async_read.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_ram_sp_async_read.v|
+!i113 1
+R5
+R6
+vtb_rom
+R9
+!i10b 1
+!s100 61@8=[?Jmj[=P2?2X]_JZ0
+I7O`_QSNnPQV3@2h5]4DaI2
+R1
+R2
+w1766241971
+8C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_rom.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_rom.v
+L0 2
+R3
+r1
+!s85 0
+31
+R10
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_rom.v|
+!i113 1
+R5
+R6

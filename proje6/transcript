@@ -1,0 +1,42 @@
+# Compile of tb_rom.v was successful.
+# Compile of rom.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim -gui work.tb_rom
+# vsim -gui work.tb_rom 
+# Start time: 17:50:30 on Dec 20,2025
+# Loading work.tb_rom
+# Loading work.rom
+add wave -position end  sim:/tb_rom/WIDTH
+add wave -position end  sim:/tb_rom/DEPTH
+add wave -position end  sim:/tb_rom/DEPTH_LOG
+add wave -position end  sim:/tb_rom/clk
+add wave -position end  sim:/tb_rom/addr_rd
+add wave -position end  sim:/tb_rom/data_rd
+add wave -position end  sim:/tb_rom/i
+run
+# ** Warning: (vsim-7) Failed to open readmem file "../rom_init.hex" in read mode.
+# No such file or directory. (errno = ENOENT)    : C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/rom.v(15)
+#    Time: 0 ns  Iteration: 0  Instance: /tb_rom/ROM0
+run 100 us
+#                    1 ROM content:
+#                    3 address =  0, data_rd = xx
+#                    5 address =  1, data_rd = xx
+#                    7 address =  2, data_rd = xx
+#                    9 address =  3, data_rd = xx
+#                   11 address =  4, data_rd = xx
+#                   13 address =  5, data_rd = xx
+#                   15 address =  6, data_rd = xx
+#                   17 address =  7, data_rd = xx
+#                   19 address =  8, data_rd = xx
+#                   21 address =  9, data_rd = xx
+#                   23 address = 10, data_rd = xx
+#                   25 address = 11, data_rd = xx
+#                   27 address = 12, data_rd = xx
+#                   29 address = 13, data_rd = xx
+#                   31 address = 14, data_rd = xx
+#                   33 address = 15, data_rd = xx
+# ** Note: $stop    : C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_rom.v(32)
+#    Time: 72600 ns  Iteration: 0  Instance: /tb_rom
+# Break in Module tb_rom at C:/Users/HUSEYIN CICEK/Desktop/proje6/proje6/tb_rom.v line 32
+# End time: 18:36:38 on Dec 20,2025, Elapsed time: 0:46:08
+# Errors: 0, Warnings: 1
