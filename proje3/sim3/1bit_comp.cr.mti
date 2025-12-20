@@ -1,0 +1,8 @@
+{C:/Users/HUSEYIN CICEK/Desktop/proje3/1bit_comparotor.v} {1 {vlog -work work -stats=none {C:/Users/HUSEYIN CICEK/Desktop/proje3/1bit_comparotor.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module bit_comparotor
+
+Top level modules:
+	bit_comparotor
+
+} {} {}}

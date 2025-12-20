@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/HUSEYIN CICEK/Desktop/kombinasyonel-atamalar combinational logic)
+vbit_comparotor
+Z0 !s110 1756031568
+!i10b 1
+!s100 TEg9coKD70bA?iOIXQ[4j2
+I0W6`8H64U^;8IVa46U`Kz0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/HUSEYIN CICEK/Desktop/proje3
+w1755713321
+8C:/Users/HUSEYIN CICEK/Desktop/proje3/1bit_comparotor.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje3/1bit_comparotor.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1756031568.000000
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje3/1bit_comparotor.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje3/1bit_comparotor.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_comp
+R0
+!i10b 1
+!s100 8ON?hM`lE;d6zGRSBe3J]0
+IGS@B;7Ck]mn_@`CJ[4k5Y2
+R1
+R2
+w1755714476
+8C:/Users/HUSEYIN CICEK/Desktop/proje3/tb_1bit_comp.v
+FC:/Users/HUSEYIN CICEK/Desktop/proje3/tb_1bit_comp.v
+L0 29
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/HUSEYIN CICEK/Desktop/proje3/tb_1bit_comp.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/HUSEYIN CICEK/Desktop/proje3/tb_1bit_comp.v|
+!i113 1
+R5
+R6
